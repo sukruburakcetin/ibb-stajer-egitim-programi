@@ -1,4 +1,4 @@
-![alt text](https://github.com/sukruburakcetin/ibb-stajer-egitim-programi/blob/main/data/FaQdzl9WIAARJGm.jpg)
+![alt text](https://github.com/sukruburakcetin/ibb-stajer-egitim-programi/blob/main/data/wifi-logo.png?raw=True)
 
 # İBB WiFi Lokasyonları
 * İBB WIFI lokasyonlarını nokta bazlı harita üzerinde görselleştiriniz.
